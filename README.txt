@@ -6,7 +6,7 @@ Model is a tinny version of VGG16 that is tuned to get the best possible accurac
 
 Augmentation.py - Randomly augments images to equalise the number of images in each category.
 
-app.py - A sample flask app to deploy the model on the localhost with web as it's front end
+app.py - A sample django app to deploy the model on the localhost with web as it's front end
 
 others - Related to the flask file
 
